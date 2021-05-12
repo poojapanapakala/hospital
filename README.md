@@ -20,7 +20,8 @@
 
 ## 2.GETTING STARTED
 ### 2.1 INSTALLATION AND USAGE
-### 2.2 STEP BY STEP GUIDANCE TO USE WEBSITE
+### 2.2 STEP BY STEP GUIDANCE TO USE WEBSITE FOR USERS
+### 2.3 STEP BY STEP GUIDANCE TO USE WEBSITE FOR ADMIN
 
 ---
 
@@ -60,7 +61,7 @@ workon test
 python manage.py runserver
 Then it will get a link follow that link then you can use our website!!
 
-## **2.2 STEP BY STEP GUIDANCE TO USE WEBSITE**
+## **2.2 STEP BY STEP GUIDANCE TO USE WEBSITE FOR USERS**
 
 ### **1) LOGIN PAGE**
 The very first page which appears on visiting our website is the login/sign up page.
@@ -103,7 +104,7 @@ After clicking on the  BP button on the top Navigation bar of the User Profile, 
 After clicking on the  Billings button on the top Navigation bar of the User Profile, view Bills Page appears.The user can see his/her List of Bills paid, Date on which Bills were paid and Amount Paid
 
 ---
-## **2.2 STEP BY STEP GUIDANCE TO USE WEBSITE FOR ADMIN(admin in the current context refers to data entry operator)**
+## **2.3 STEP BY STEP GUIDANCE TO USE WEBSITE FOR ADMIN(admin in the current context refers to data entry operator)**
 
 ### **1) LOGIN PAGE**
 As soon as we run the server and the website is opened,we find an option on the page called 'login as admin'.This option allows the admin to login using the credentials like email,password.For now, we have assumed that there is only one admin whose credentials are inbuilt while creating database.
