@@ -105,6 +105,32 @@ After clicking on the  Billings button on the top Navigation bar of the User Pro
 ## **DISCLAIMER:**
 The information provided by us on Hospital Mnagement Website is for general informational purposes only.All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site.We do not warrant, endorse, guarantee, or assume responsibility for the accuracy or reliability of any information offered by third-party websites linked through the site or any website or feature linked in any banner or other advertising
 
+## **2.2 STEP BY STEP GUIDANCE TO USE WEBSITE FOR ADMIN(admin in the current context refers to data entry operator)**
+
+### **1) LOGIN PAGE**
+As soon as we run the server and the website is opened,we find an option on the page called 'login as admin'.This option allows the admin to login using the credentials like email,password.For now, we have assumed that there is only one admin whose credentials are inbuilt while creating database.
+
+### **2) HOME PAGE**
+After the login process,admin is directed to the home page where he/she is shown different options like tests(with a drop down of diabetes,blood pressure),add prescriptions,add billings,add/update pharmacy stock,view profile change requests and change for both users and doctors.
+
+### **3) TESTS PAGE**
+If the admin clicks on 'tests' button,a drop-down appears with two options 'diabetes','blood pressure'.These buttons re-direct the user to respective pages where they are provided with forms to filling the data of test results'.For now we have only these two tests for diabetes and blood-pressure.the admin must ensure that the user id exists i.e., the user must be registered within the website or else they'll be redirected to the same page.Else if the forms' data is added successfully then they are shown successful message.
+
+### **4)PATIENT PROFILE**
+We have enabled the option for users to request for changes in their profile.Admin can view these requests when presses on the 'patient profile' button and can edit profiles.
+
+### **4)DOCTOR PROFILE**
+Admin can process the requests by doctors to change profiles. By using the 'doctor profile' button admin can edit profiles.
+
+### **6)PHARMACY PAGE**
+This page helps the admin in maintaining pharma detials.In this page we have two options called 'add,'update' where the admin can either update existing pharma stock using the medicine ID which is alloted uniquely to every medicine while adding or add new pharma with new ID.
+
+### **7)PRESCRIPTIONS**
+The admin can add any prescriptions for the existing users prescribed by doctors using user ID and doctor ID.
+
+### **8)BILLINGS**
+Admin can add the billing details of existing users for the future refernece by a user using user ID, each billing is given unique billing ID along with billing amount and billing date which can be accessed by user later.
+
 **Thank You for visiting our website**
 
 
