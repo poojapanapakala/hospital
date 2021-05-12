@@ -64,8 +64,10 @@ Then it will get a link follow that link then you can use our website!!
 
 ### **1) LOGIN PAGE**
 The very first page which appears on visiting our website is the login/sign up page.
-Users can either login into the system by filling some credentials or by signing up, if the user is new.  A user can login into the system by entering his/her User ID and password and then press the login button.
+A user can select an option from the three dropdown menu which contains Login as User,Login as Admin or Register for new User.
+Users can  login into the system by filling some credentials or by signing up, if the user is new.  A user can login into the system by entering his/her User ID and password and then press the login button.
 For signing up into the website, the user has to enter User Name, Mobile Number,Email,Password and Address and then press the sign up button.
+For logging into the website as Admin, the user has to provide Admin ID and Password.
 
 ### **2)USER PROFILE**
 After logging into the website, the user can see his/her profile page where the user’s Name,Email,Mobile Number and address will be displayed. Also on the top side of the  navigation bar, the user can see all the tabs which are Doctor,Appointments for Vaccine,Appointments for Diagnosis,Appointments for visiting doctors,Medicines,Past Results,Diabetes,BP and Billing
@@ -73,29 +75,35 @@ After logging into the website, the user can see his/her profile page where the 
 ### **3)DOCTOR PROFILE PAGE**
 After clicking on the doctor tab  on the top Navigation bar of User Profile, the doctor profiles page appears. In the doctor profiles page, the user can see all the profiles of doctors with their Name, Doctor ID, Specialization, Availability timing 
 
-### **4)BOOK VACCINE APPOINTMENT PAGE**
+### **4)REQUEST TO CHANGE PROFILE**
+After clicking on the Request to change profile tab  on the top Navigation bar of User Profile, the Request to change profile page appears.Here, the user can request to change his/her profile by entering UserID and the Request to change.
+
+### **5)BOOK VACCINE APPOINTMENT PAGE**
 After clicking on Appointments for vaccine button  on the top Navigation bar of User Profile, Book Vaccine Appointment Page appears.The user can see the dates available for booking vaccine,choose a date for vaccination and then click on add button.The user has successfully booked appointment for vaccination
 
-### **5)BOOK DIAGNOSIS APPOINTMENT PAGE**
+### **6)BOOK DIAGNOSIS APPOINTMENT PAGE**
 After clicking on Appointments for Diagnosis button  on the top Navigation bar of User Profile,Book Diagnosis Appointment Page appears.The user can enter the Test Name for which he/she wants diagnosis,then the user can select a particular data from available date for appointment and then click on add button.The user has successfully booked appointment for diagnosis
 
-### **6)BOOK DOCTOR APPOINTMENT PAGE**
+### **7)BOOK DOCTOR APPOINTMENT PAGE**
 After clicking on Appointments for visiting Doctor button on the top Navigation bar of User Profile,Book Doctor Appointment Page appears.The user can see the Doctor ID,select a particular date  from available dates for visiting and then click on add button.The user has successfully booked appointment for visiting doctor
 
-### **7)VIEW MEDICINES PAGE**
+### **8)VIEW MEDICINES PAGE**
 After clicking on the Medicines button on the top Navigation bar of the User Profile, view Medicines Page appears.The user can see the list of all the medicines including Medicine Name,Medicine ID,Stock top and Last update of the medicines.
 
-### **8)VIEW PAST RESULTS PAGE**
-After clicking on the Past Results button on the top Navigation bar of the User Profile, view Past Results Page appears.The user can see all his/her  past results including Test Date,Test ID,Insulin level,PPSL,Sugar level,Diastolic Pressure and Systolic Pressure
+### **9)VIEW PAST PRESCRIPTIONS PAGE**
+After clicking on the Past Prescriptions button on the top Navigation bar of the User Profile, view Past Prescriptions Page appears.The user can see all his/her  past prescriptions including Prescription Date,Doctor's Name who provided that prescription and also the medicine prescribed
 
-### **9)VIEW DIABETES RESULT PAGE**
+### **10)VIEW DIABETES RESULT PAGE**
 After clicking on the  Diabetes button on the top Navigation bar of the User Profile, view Diabetes Result Page appears.The user can see his/her Diabetes Result including Test ID,Test Date,Insulin Level,Sugar Level and PPSL
 
-### **10)VIEW BP RESULT PAGE**
+### **11)VIEW BP RESULT PAGE**
 After clicking on the  BP button on the top Navigation bar of the User Profile, view BP Result Page appears.The user can see his/her BP Result including Test ID,Test Date,Diastolic Pressure and Systolic Pressure 
 
-### **11)VIEW BILLINGS PAGE**
+### **12)VIEW BILLINGS PAGE**
 After clicking on the  Billings button on the top Navigation bar of the User Profile, view Bills Page appears.The user can see his/her List of Bills paid, Date on which Bills were paid and Amount Paid
+
+## **DISCLAIMER:**
+The information provided by us on Hospital Mnagement Website is for general informational purposes only.All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site.We do not warrant, endorse, guarantee, or assume responsibility for the accuracy or reliability of any information offered by third-party websites linked through the site or any website or feature linked in any banner or other advertising
 
 **Thank You for visiting our website**
 
