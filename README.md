@@ -102,8 +102,6 @@ After clicking on the  BP button on the top Navigation bar of the User Profile, 
 ### **12)VIEW BILLINGS PAGE**
 After clicking on the  Billings button on the top Navigation bar of the User Profile, view Bills Page appears.The user can see his/her List of Bills paid, Date on which Bills were paid and Amount Paid
 
-## **DISCLAIMER:**
-The information provided by us on Hospital Mnagement Website is for general informational purposes only.All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site.We do not warrant, endorse, guarantee, or assume responsibility for the accuracy or reliability of any information offered by third-party websites linked through the site or any website or feature linked in any banner or other advertising
 
 ## **2.2 STEP BY STEP GUIDANCE TO USE WEBSITE FOR ADMIN(admin in the current context refers to data entry operator)**
 
@@ -132,6 +130,9 @@ The admin can add any prescriptions for the existing users prescribed by doctors
 Admin can add the billing details of existing users for the future refernece by a user using user ID, each billing is given unique billing ID along with billing amount and billing date which can be accessed by user later.
 
 **Thank You for visiting our website**
+
+## **DISCLAIMER:**
+The information provided by us on Hospital Mnagement Website is for general informational purposes only.All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site.We do not warrant, endorse, guarantee, or assume responsibility for the accuracy or reliability of any information offered by third-party websites linked through the site or any website or feature linked in any banner or other advertising
 
 
 
