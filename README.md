@@ -48,6 +48,7 @@ Nose for testing(install nose using a simple command pip install nose).
 
 ### **USAGE**
 Pull requests are welcome.You can pull this and open in visual studio code for usage.
+Import database and connect it in the code using the name mentioned in the code(settings.py).
 Create a virtual environment namely test(any name example test) and use the command "workon test".You can create virtual environment by following steps:
 Open command prompt
 Use the command "pip install virtualenvwrapper-win"
@@ -56,8 +57,9 @@ Install django by the command "pip install django"
 Install mysqlclient with the command "pip install mysqlclient" using the package manager pip.
 In the settings.py file in the database section name and password can be changed according to yours.
 Then use the commands in the following order:
-workon test
-python manage.py runserver
+workon test.
+python manage.py runserver.
+For test cases we use nose(codes are available in tests.py).
 Then it will get a link follow that link then you can use our website!!
 
 ## **2.2 STEP BY STEP GUIDANCE TO USE WEBSITE**
